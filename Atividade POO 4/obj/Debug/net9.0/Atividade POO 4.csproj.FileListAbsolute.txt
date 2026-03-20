@@ -1,0 +1,15 @@
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\bin\Debug\net9.0\Atividade POO 4.exe
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\bin\Debug\net9.0\Atividade POO 4.deps.json
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\bin\Debug\net9.0\Atividade POO 4.runtimeconfig.json
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\bin\Debug\net9.0\Atividade POO 4.dll
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\bin\Debug\net9.0\Atividade POO 4.pdb
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\Atividade POO 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\Atividade POO 4.AssemblyInfoInputs.cache
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\Atividade POO 4.AssemblyInfo.cs
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\Atividade POO 4.csproj.CoreCompileInputs.cache
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\Atividade POO 4.sourcelink.json
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\Atividade POO 4.dll
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\refint\Atividade POO 4.dll
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\Atividade POO 4.pdb
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\Atividade POO 4.genruntimeconfig.cache
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 4\obj\Debug\net9.0\ref\Atividade POO 4.dll
