@@ -1,0 +1,15 @@
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\bin\Debug\net10.0\Atividade POO 7.exe
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\bin\Debug\net10.0\Atividade POO 7.deps.json
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\bin\Debug\net10.0\Atividade POO 7.runtimeconfig.json
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\bin\Debug\net10.0\Atividade POO 7.dll
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\bin\Debug\net10.0\Atividade POO 7.pdb
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\Atividade POO 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\Atividade POO 7.AssemblyInfoInputs.cache
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\Atividade POO 7.AssemblyInfo.cs
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\Atividade POO 7.csproj.CoreCompileInputs.cache
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\Atividade POO 7.sourcelink.json
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\Atividade POO 7.dll
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\refint\Atividade POO 7.dll
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\Atividade POO 7.pdb
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\Atividade POO 7.genruntimeconfig.cache
+C:\trabalho de grafos\projeto\Exercicio POO\Atividade POO 7\obj\Debug\net10.0\ref\Atividade POO 7.dll
